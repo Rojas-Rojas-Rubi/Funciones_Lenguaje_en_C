@@ -4,9 +4,9 @@
 int main(){
     
     char dest[20] = "Hola ";
-    strcat(dest, "Mundo");  //une la cadena a otra, es decir junta el "Hola" con "Mundo"
+    strcat(dest, "Mundo");  
 
-    printf("Resultado: %s", dest);  // Aqui se imprimira el resultado de jumtar ambas cadenas
+    printf("Resultado: %s", dest);  
 
     return 0;
 
